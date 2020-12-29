@@ -1,12 +1,3 @@
-"""
-sort_by_month.py
-
-Copyright (c) 2020 chootana
-
-This software is released under the MIT License.
-http://opensource.org/licenses/mit-license.php
-"""
-
 import os
 import glob 
 import shutil 

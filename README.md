@@ -37,3 +37,7 @@ VRChatのスクリーンショットフォルダに溜まった写真を日付�
     ```bash
     /c/[hogehoge]/Pictures/vrc_photo_sorting$ python sort_by_day_wsl.py
     ```
+
+
+# License
+MIT

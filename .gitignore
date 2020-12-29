@@ -1,4 +1,6 @@
 __pycache__/
 build/
 dist/
+release/
 sort_by_day.spec
+sort_by_day.exe

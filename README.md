@@ -3,7 +3,7 @@ VRChatのスクリーンショットフォルダに溜まった写真を日付�
 
 [ダウンロード](https://github.com/Chootana/VRCPhotoSorting/releases/latest)
 
-# How to UseHow to Use
+# How to Use
 ## とりあえず使いたい方へ
 
 1. [こちら](https://github.com/Chootana/VRCPhotoSorting/releases/latest)
